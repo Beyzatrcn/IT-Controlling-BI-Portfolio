@@ -1,0 +1,11 @@
+date,service_id,total_cost_chf,users,devices,virtual_machines,tickets,service_name,cost_center,service_owner,cost_per_user_chf,cost_per_device_chf,cost_per_vm_chf,cost_per_ticket_chf
+2025-01-01,S001,25000,1200,1100,0,240,Workplace Services,IT100,End User Computing,20.83,22.73,,104.17
+2025-01-01,S002,18000,1200,950,0,120,Network Services,IT200,Infrastructure,15.0,18.95,,150.0
+2025-01-01,S003,32000,0,0,320,40,Cloud Infrastructure,IT300,Cloud Team,,,100.0,800.0
+2025-01-01,S004,27000,650,0,0,80,ERP Application Support,IT400,Application Management,41.54,,,337.5
+2025-01-01,S005,15000,1200,0,0,60,Identity and Access Management,IT500,Security Team,12.5,,,250.0
+2025-02-01,S001,22000,1220,1120,0,210,Workplace Services,IT100,End User Computing,18.03,19.64,,104.76
+2025-02-01,S002,17000,1220,970,0,110,Network Services,IT200,Infrastructure,13.93,17.53,,154.55
+2025-02-01,S003,35000,0,0,350,45,Cloud Infrastructure,IT300,Cloud Team,,,100.0,777.78
+2025-02-01,S004,26000,660,0,0,70,ERP Application Support,IT400,Application Management,39.39,,,371.43
+2025-02-01,S005,14000,1220,0,0,55,Identity and Access Management,IT500,Security Team,11.48,,,254.55
