@@ -1,0 +1,11 @@
+"date,service_id,cost_type,vendor,amount_chf"
+"2025-01-01,S001,Hardware,Dell,25000"
+"2025-01-01,S002,Network Equipment,Cisco,18000"
+"2025-01-01,S003,Cloud Services,AWS,32000"
+"2025-01-01,S004,Software License,SAP,27000"
+"2025-01-01,S005,Security Software,Microsoft,15000"
+"2025-02-01,S001,Hardware,Dell,22000"
+"2025-02-01,S002,Network Equipment,Cisco,17000"
+"2025-02-01,S003,Cloud Services,AWS,35000"
+"2025-02-01,S004,Software License,SAP,26000"
+"2025-02-01,S005,Security Software,Microsoft,14000"
