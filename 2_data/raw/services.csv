@@ -1,6 +1,6 @@
-"service_id,service_name,cost_center,service_owner"
-"S001,Workplace Services,IT100,End User Computing"
-"S002,Network Services,IT200,Infrastructure"
-"S003,Cloud Infrastructure,IT300,Cloud Team"
-"S004,ERP Application Support,IT400,Application Management"
-"S005,Identity and Access Management,IT500,Security Team"
+service_id,service_name,cost_center,service_owner
+S001,Workplace Services,IT100,End User Computing
+S002,Network Services,IT200,Infrastructure
+S003,Cloud Infrastructure,IT300,Cloud Team
+S004,ERP Application Support,IT400,Application Management
+S005,Identity and Access Management,IT500,Security Team

@@ -1,1 +1,1 @@
-#Liste der Python-Pakete (pandas, openpyxl)
+pandas
