@@ -117,3 +117,5 @@ Portfolio project demonstrating skills in:
 * Data Analytics
 * Business Intelligence
 * Business Informatics
+
+GitHub Profile: [github.com/Beyzatrcn](https://github.com/Beyzatrcn)
